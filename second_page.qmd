@@ -1,6 +1,5 @@
 ---
 title: "second_page"
-format: html
 ---
 
 ```{r}
